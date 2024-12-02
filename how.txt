@@ -1,0 +1,8 @@
+This is how i created this web - apps (For my understanding )
+  steps are :
+1. create a html code with css for basic input and text fiels and a button
+2. write js script as per show in the coding part of the page.
+3. go to openweather.org website and sign in with an email.
+4. after login go to account section and open api keys.
+5. After api keys add that api keys in const api variable .
+  then lunch the website it is ready  to go .
